@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>jazz Website</title>
+<title>JAZZ CYBER SECURITY</title>
 </head>
 <body>
-  <h1>Welcome to jazz </h1>
-  <p>My name is jazz.</p>
-  <p>My first website in 2026!</p>
+<h1>Welcome to JAZZ</h1>
+<p>My name is JAZZ.</p>
+<p>My first Cyber Security website in 2026!</p>
 </body>
-</html>p<title>JAZZ CYBER SECURITY</title>
+</html>
